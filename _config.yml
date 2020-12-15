@@ -22,11 +22,8 @@ title: 나의 소프트웨어 불경험
 email: j@jjme.net
 description: >- # this means to ignore newlines until "baseurl:"
   제가 소프트웨어를 사용하면서 겪은 각종 불경험(Misexperience)을 정리하는 사이트입니다.
-  불경험이라는 단어는 그냥 만들었습니다. Misexperience도 마찬가지에요.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jjmenet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _jjmx
-github_username: jjmenet
 
 # Build settings
 theme: minima
