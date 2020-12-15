@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 이 사이트는
+이 사이트는 제가 소프트웨어를 사용하면서 겪은 각종 불경험(Misexperience)을 정리하는 사이트입니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# 불경험이란
+불경험이라는 단어는 그냥 만들었습니다. 불-경험이에요. Misexperience도 마찬가지에요.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# 저는
+소프트웨어를 보통 사람 수준으로는 많이 쓰는 사람입니다. 사소한 불편함을 견디기 어려워하는 성미를 지니고 있습니다.
