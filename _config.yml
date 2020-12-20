@@ -30,6 +30,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# will substitute :author with the variable author in your file (also works with defaults). 
+permalink: /:title
+# You need to have this extra permalink_custom_vars array to tell the plugin which substitutions to make
+permalink_custom_vars: ['index'] 
+# Note that you don't have to include the supported variables in this list as jekyll takes care of that 
+# For a complete list of variables jekyll supports, see: https://jekyllrb.com/docs/permalinks/#template-variables
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

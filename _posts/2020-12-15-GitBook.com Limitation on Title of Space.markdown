@@ -2,13 +2,18 @@
 layout: post
 title: "GitBook.com의 Space 생성시 Title 제약"
 date: 2020-12-15 12:24:50 +0900
-tags: web GitBook.com i18n
+author: jjme
+category: disexperience
+service: gitbook.com
+tags: [web, i18n]
 usemathjax: true
 ---
 
 ## 배경
 
-[GitBook.com]은 온라인상에서 사용할 수 있는 문서화 도구 서비스이다. 나는 GitBook과 그 파생 프로젝트로 만들어졌다는 여러 결과물을 보고 GitBook을 써 보고 싶다는 생각을 했고, [GitBook.com]에 가입해서 직접 써 보기로 했다.[^1] 가입은 순조로웠고, 나는 [GitBook.com]이 제공하는 프로젝트의 단위인 **Space**를 신규 생성하려고 하였다.
+[GitBook.com]은 온라인상에서 사용할 수 있는 문서화 도구 서비스이다.
+
+나는 GitBook과 그 파생 프로젝트로 만들어졌다는 여러 결과물을 보고 GitBook을 써 보고 싶다는 생각을 했고, [GitBook.com]에 가입해서 직접 써 보기로 했다.[^1] 가입은 순조로웠고, 나는 [GitBook.com]이 제공하는 프로젝트의 단위인 **Space**를 신규 생성하려고 하였다.
 
 [^1]: 그러나 이것은 삽질로 밝혀졌는데, 내가 본 결과물들은 이미 [GitBook.com] 팀이 버린(것으로 추정되는) [Legacy 프로젝트]와 거기서 포크된 프로젝트를 기반으로 만들어진 것이고, GitBook.com이 제공하는 서비스는 좀 더 *현대화*된 결과물을 제공하는 것으로 추측된다.
 

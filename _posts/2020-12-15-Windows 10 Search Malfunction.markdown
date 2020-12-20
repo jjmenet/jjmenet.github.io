@@ -2,8 +2,10 @@
 layout: post
 title: "Windows 10의 검색 오작동"
 date: 2020-12-15 17:47:00 +0900
-tags: OS Windows10 bug
-usemathjax: true
+author: jjme
+category: disexperience
+service: windows10_search
+tags: [OS, Windows10, bug]
 ---
 
 ## 배경
