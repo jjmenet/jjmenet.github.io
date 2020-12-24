@@ -7,3 +7,15 @@
 .center {
   text-align: center;
 }
+
+.myvideo {
+  position: relative;
+  display: block;
+  min-width: 200px;
+  max-height: auto;
+  margin: auto;
+}
+
+.mobileportrait {
+  max-height: 540px;
+}
