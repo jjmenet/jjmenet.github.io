@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "리디북스 연재물 일간 독서 흐름의 불경험"
+description: "여러 연재물을 구입하고 다운로드받는 과정에 불편함이 있다."
 date: 2020-12-24 21:04:20 +0900
 author: jjme
 category: disexperience

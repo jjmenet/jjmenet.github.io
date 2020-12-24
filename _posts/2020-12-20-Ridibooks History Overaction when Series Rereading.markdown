@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "리디북스 연재물 재주행시 반복적으로 뜨는 독서 이력 알림 모달" 
+title: "리디북스 연재물 재주행시 반복적으로 뜨는 독서 이력 알림 모달"
+description: "한 번 끝까지 읽은 도서를 처음부터 읽을 때 귀찮게 군다."
 date: 2020-12-20 10:26:21 +0900
 author: jjme
 category: disexperience

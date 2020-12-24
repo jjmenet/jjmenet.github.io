@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Windows 10의 검색 오작동"
+description: "검색 창 표시에 웹 검색 결과창이 좀비처럼 끼어든다."
 date: 2020-12-15 17:47:00 +0900
 author: jjme
 category: disexperience

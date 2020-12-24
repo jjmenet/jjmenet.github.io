@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GitBook.com의 Space 생성시 Title 제약"
+description: "프로젝트 공간을 생성할 때 이름을 받아 url을 생성하는 과정에 빈틈이 있다."
 date: 2020-12-15 12:24:50 +0900
 author: jjme
 category: disexperience
